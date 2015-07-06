@@ -1,0 +1,4 @@
+# Select a certain version
+
+> library(devtools)
+> devtools::install.github()
